@@ -1,7 +1,7 @@
 # RMXC Tech Support Ticketing System Application
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/pablo-git8/rmxc-tsts-app/main/images/RMXCLogoORG.jpg" alt="400" width="600"/>
+	<img src="https://raw.githubusercontent.com/pablo-git8/rmxc-tsts-app/main/images/RMXCLogoORG.jpg" alt="100" width="200"/>
 </p>
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
