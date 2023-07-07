@@ -6,7 +6,7 @@
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-This repository contains a full software development project for a tech support ticketing system. The ticketing system provides a centralized platform for managing and tracking customer support requests in a company overseeing international medical device's projects mainly involving medial radiology.
+This repository encompasses a comprehensive software development project for a technologically advanced ticketing system. Designed to cater to the specific requirements of a company specializing in international medical device projects, particularly in the field of medical radiology, this ticketing system offers a centralized platform for efficient management and tracking of customer support requests.
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/pablo-git8/rmxc-tsts-app/main/images/RMXCLogoORG.jpg" alt="100" width="200"/>
